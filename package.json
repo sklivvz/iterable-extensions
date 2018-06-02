@@ -1,0 +1,20 @@
+{
+  "name": "jslinq",
+  "version": "0.1.0",
+  "description": "A set of higher order function inspired by linq",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Marco Cecconi <marco.cecconi@gmail.com>",
+  "license": "MIT"
+}
